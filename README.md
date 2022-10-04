@@ -1,4 +1,4 @@
-# The work
+# MILLA - the work for a new programming language
 
 Write a document of maximum 6 pages containing the language manual and write a parser in Jison for this language. This is intended for a user who has never used the language before. The manual should contain the following:
 
